@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Isalmi_c36_online"
